@@ -11,8 +11,8 @@ namespace CS2_External_Cheat
         // bases
         public int ViewMatrix = 0x1882570;
 
-        public int localPlayer = 0x1881288;
-        public int entityList = 0x16AE880;
+        public int localPlayer = 0x18833A8;
+        public int entityList = 0x16B0890;
 
         // Attributes
         public int teamNum = 0x3BF;
